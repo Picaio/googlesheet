@@ -45,4 +45,4 @@ Este proyecto fue desarrollado utilizando las APIs de Google y el microcontrolad
 
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. Para más detalles, revisa el archivo [LICENSE](LICENSE). 📄
+El código lo puedes usar de manera libre
